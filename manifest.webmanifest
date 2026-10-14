@@ -1,0 +1,10 @@
+{
+  "name": "Oh My Donut Reims",
+  "short_name": "Oh My Donut",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7F3",
+  "theme_color": "#5B1426",
+  "lang": "fr",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
